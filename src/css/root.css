@@ -32,6 +32,7 @@ body {
     --breadcrumbs-font-size: var(--font-size-small);
     --breadcrumbs-link-color: var(--color-black);
     --breadcrumbs-padding-vertical: 2.125rem;
+    --breadcrumbs-padding-horizontal: 0;
     --breadcrumbs-spacing-bottom: 0;
 
     --button-bg-color: var(--color-primary);
